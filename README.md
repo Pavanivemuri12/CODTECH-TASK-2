@@ -15,6 +15,8 @@ Overview of the Project: Project: PREDICTIVE MODELING WITH LINEAR REGRESSION
 ![image](https://github.com/user-attachments/assets/f30228d9-6e96-406d-963e-ed49dcbf8fb6)
 ![image](https://github.com/user-attachments/assets/8f2dca87-aab4-4547-893e-47bcc2eea517)
 ![image](https://github.com/user-attachments/assets/b0f62e1c-88e0-4aaf-9f41-94a5f23a84be)
+
+
 Objectives:
 
   -Implement a simple linear regression model using a dataset with continuous target variables. 
